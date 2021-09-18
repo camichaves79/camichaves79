@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camichaves79
-- 👀 I’m learning computer programming
+- 👀 I’m studying computer programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on entry level projects
 - 📫 How to reach me at https://www.linkedin.com/in/camilo-chaves-4aa676211/
