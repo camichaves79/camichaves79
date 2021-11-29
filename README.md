@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @camichaves79
-- 👀 I’m studying computer programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on entry level projects
 - 📫 How to reach me at https://www.linkedin.com/in/camilochavesh/?locale=en_US
 
 <!---
